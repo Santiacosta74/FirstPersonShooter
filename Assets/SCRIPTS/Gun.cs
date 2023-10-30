@@ -9,7 +9,7 @@ public class Gun : MonoBehaviour
     public float bulletSpeed = 10;
     public int bullets = 30;
     public int magazineCapacity = 30;
-    public float reloadTime = 2.0f;
+    public float reloadTime = 2.0f; //puede depender
     private bool isReloading = false;
 
     private void Update()
