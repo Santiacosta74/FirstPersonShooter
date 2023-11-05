@@ -193,6 +193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &33210540
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3137,6 +3138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &376849453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4184,6 +4186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &464396982
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7509,6 +7512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &928423392
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8662,6 +8666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &1103272216
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9543,6 +9548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &1204983459
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11268,6 +11274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &1375820869
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13464,6 +13471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1 &1639760815
 GameObject:
   m_ObjectHideFlags: 0
@@ -14311,6 +14319,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &1769840101
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15700,6 +15709,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4674a5c157be6e449890e3ff36aeb316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1001 &1923662958
 PrefabInstance:
   m_ObjectHideFlags: 0
