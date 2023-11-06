@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public int zombiesToKill = 23;
+    public int zombiesToKill = 1;
     public int zombiesKilled = 0;
     public Text zombiesKilledText;
     public Canvas CanvasWin; 
